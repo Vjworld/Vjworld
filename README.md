@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vjworld
 - 👀 I’m interested in ...Learning Technology
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...python code 
+- 🌱 I’m currently learning ...AI Agent Creation
+- 💞️ I’m looking to collaborate on ... AI service/automation related problems 
 - 📫 How to reach me ...vaibhav.selukar@gmail.com
 
 <!---
